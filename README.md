@@ -31,8 +31,6 @@ SKILLSENSE-RESUME-ANALYZER/
 ├── requirements.txt
 ├── Logo/
 │ └── Logos.png
-├── Uploaded_Resumes/
-│ └── .gitkeep
 └── README.md
 
 ## ⚙️ Installation & Setup

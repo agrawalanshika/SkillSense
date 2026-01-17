@@ -52,5 +52,7 @@ streamlit run App.py
 ## 🧠 Use Case
 
 Students and freshers
+
 Job seekers
+
 Resume analysis and improvement
